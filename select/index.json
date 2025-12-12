@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アウト・オブ・ザ・ウッズ（テイラーズ・ヴァージョン）",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2025-12-12T04:03:45.139815Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Out Of The Woods (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Out_Of_The_Woods_(Taylor's_Version)_Taylor_Swift.txt"
+    }
+  ]
+}
